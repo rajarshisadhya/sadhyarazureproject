@@ -1,0 +1,15 @@
+{
+	"name": "df-azureprojectsadhyar",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "929daabe-15ce-457a-83e5-ed1c8f006726",
+		"tenantId": "61e30b0c-1088-4687-82d4-7e54b672e3cc"
+	}
+}
